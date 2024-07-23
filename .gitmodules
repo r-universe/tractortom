@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/tractortom/tractortom.r-universe.dev
 	branch = HEAD
-[submodule "TBox"]
-	path = TBox
+[submodule "TractorTsbox"]
+	path = TractorTsbox
 	url = https://github.com/TractorTom/TractorTsbox
